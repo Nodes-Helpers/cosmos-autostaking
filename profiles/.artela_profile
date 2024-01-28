@@ -12,7 +12,7 @@ PASSWD=""
 # Example: DELEGATOR_NAME="EZStaking"
 DELEGATOR_NAME=""
 
-# Artela Wallet Address (`artelad keys show EntangleWalletName -a`)
+# Artela Wallet Address (`artelad keys show ArtelaWalletName -a`)
 # Example: DELEGATOR="art1q749pdu77f0mklqxz8eytk8xw5nukauk9yu68m"
 DELEGATOR=""
 
